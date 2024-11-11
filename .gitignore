@@ -1,0 +1,29 @@
+# PyCharm specific files
+.idea/
+
+# Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment (if you use one locally)
+.venv/
+env/
+venv/
+ 
+# Configuration files for testing frameworks
+*.coverage
+*.tox/
+*.nox/
+*.coverage.*
+nosetests.xml
+coverage.xml
+*.hypothesis/
+
+# Local environment variables or settings files
+.env
+.env.local
+
+# OS specific files
+.DS_Store
+Thumbs.db
